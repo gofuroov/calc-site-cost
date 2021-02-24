@@ -55,6 +55,10 @@ var app = new Vue({
                 {
                     nomi: "Olimjon",
                     narxi: 12345689
+                },
+                {
+                    nomi: "Pythonda backend",
+                    narxi: 123457800
                 }
             ],
             blog3: [
